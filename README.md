@@ -1,12 +1,13 @@
-Estamos para defender la privacidad de las personas.
-Detrás de cada correo, cuenta y contraseña hackeada hay una
-Familia, un trabajo, niños, hogares, datos delicados y sensibles.
-Ayúdame a quebrar y desvincular estos correos con sus comtraseñas
-de todas las cuentas que estén ligadas, redes sociales, tarjetas,
-Direcciones, números de telefono y mas. 
+Estamos para defender y resguardar la privacidad de las personas.
+detrás de cada correo electrónico, cada cuenta con su contraseña hackeada hay una
+familia, un trabajo, hay niños, hogares, datos delicados y sensibles.
+Ayúdame a quebrar y desvincular estos correos con sus contraseñas
+de todo tipo de cuenta que estén ligadas, redes sociales, tarjetas de crédito,
+direcciones, números de telefono y mas. 
 
 Quiero crear conciencia: un Hackers Etico utiliza su conocimiento
-En favor de los mas debiles y vulnerables.
+En favor de los mas debiles y vulnerables. Si encuentra una falla la arregla.
+
 
 aladin.lampe@googlemail.com:1qay2wsx3edc
 aksel.granum@gmail.com:Seib1984
