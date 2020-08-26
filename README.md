@@ -5,8 +5,9 @@ Ayúdame a quebrar y desvincular estos correos con sus contraseñas
 de todo tipo de cuenta que estén ligadas, redes sociales, tarjetas de crédito,
 direcciones, números de telefono y mas. 
 
-Quiero crear conciencia: un Hackers Etico utiliza su conocimiento
-En favor de los mas debiles y vulnerables. Si encuentra una falla la arregla.
+Creando conciencia: Un Hacker Etico, analiza, investiga, desarrolla tal vez un plan, la mayoría de las veces minucioso, estudiado, para luego ejecutar una sentencia de pensamiento razonable y de sentido común, llegando a la conclusión, solucionar esa vulnerabilidad, y sin duda no negará utilizar su investidura de profundo conocimiento sobre el tema, actuando
+en favor de la verdad y levantando el estandarte del conocimiento. Encontrará la falla, o varias, 
+resultado final, las resolverá. Aplaudo de pie a los desarrollasores, a los programadores impulsados por el viento humilde pero impetuoso que son influenciados y de inversa manera por pura vocación.
 
 
 aladin.lampe@googlemail.com:1qay2wsx3edc
